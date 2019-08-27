@@ -1,0 +1,23 @@
+﻿  server.cpp
+c:\mercylin_code\项目\auto云备份\auto云备份\httplib.h(1535): warning C4244: “=”: 从“uint64_t”转换到“size_t”，可能丢失数据
+c:\mercylin_code\项目\auto云备份\auto云备份\httplib.h(1705): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+c:\mercylin_code\项目\auto云备份\auto云备份\httplib.h(936): warning C4244: “参数”: 从“uint64_t”转换到“size_t”，可能丢失数据
+  c:\mercylin_code\项目\auto云备份\auto云备份\httplib.h(1843): note: 参见对正在编译的函数 模板 实例化“bool httplib::detail::read_content<httplib::Request>(httplib::Stream &,T &,uint64_t,bool &,httplib::Progress)”的引用
+          with
+          [
+              T=httplib::Request
+          ]
+c:\mercylin_code\项目\auto云备份\auto云备份\httplib.h(940): warning C4244: “参数”: 从“uint64_t”转换到“size_t”，可能丢失数据
+  server_test.cpp
+c:\mercylin_code\项目\auto云备份\auto云备份\httplib.h(1535): warning C4244: “=”: 从“uint64_t”转换到“size_t”，可能丢失数据
+c:\mercylin_code\项目\auto云备份\auto云备份\httplib.h(1705): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+c:\mercylin_code\项目\auto云备份\auto云备份\httplib.h(936): warning C4244: “参数”: 从“uint64_t”转换到“size_t”，可能丢失数据
+  c:\mercylin_code\项目\auto云备份\auto云备份\httplib.h(1843): note: 参见对正在编译的函数 模板 实例化“bool httplib::detail::read_content<httplib::Request>(httplib::Stream &,T &,uint64_t,bool &,httplib::Progress)”的引用
+          with
+          [
+              T=httplib::Request
+          ]
+c:\mercylin_code\项目\auto云备份\auto云备份\httplib.h(940): warning C4244: “参数”: 从“uint64_t”转换到“size_t”，可能丢失数据
+  正在生成代码...
+server_test.obj : error LNK2005: _main 已经在 server.obj 中定义
+LINK : fatal error LNK1104: 无法打开文件“libboost_filesystem-vc141-mt-gd-x32-1_70.lib”

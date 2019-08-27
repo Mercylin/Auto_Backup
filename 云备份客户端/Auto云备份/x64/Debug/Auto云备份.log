@@ -1,0 +1,6 @@
+﻿  Client.cpp
+c:\mercylin_code\项目\auto云备份\auto云备份\httplib.h(1705): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+c:\mercylin_code\项目\auto云备份\auto云备份\server.h(9): warning C4005: “SERVER_PORT”: 宏重定义
+  c:\mercylin_code\项目\auto云备份\auto云备份\client.hpp(17): note: 参见“SERVER_PORT”的前一个定义
+c:\mercylin_code\项目\auto云备份\auto云备份\server.h(47): warning C4804: “~”: 在操作中使用类型“bool”不安全
+  Auto云备份.vcxproj -> C:\Mercylin_Code\项目\Auto云备份\x64\Debug\Auto云备份.exe
